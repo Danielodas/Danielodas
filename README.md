@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Daniel Lleó</h1>
-<h3 align="center">A enthusiast programmer who uses mostly Python</h3>
+<h3 align="center">An enthusiast programmer who uses mostly Python</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,7 +10,7 @@
 
 - 👀 I’m interested in backend develop
 - 🐍 I’m currently learning Python
-- 🗣️ Native language : Spanish. Fluent : English & Valencian. Intermediate : Japanese. Beginner : German.
+- 🗣️ I speak Spanish and English fluently, and currently I'm learning Japanese and German
 - 📥 You can find me on Discord as danielodas
 
 <h3 align="left">Languages and Tools:</h3>
