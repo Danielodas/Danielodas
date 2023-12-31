@@ -1,4 +1,5 @@
-![banner](https://github.com/Danielodas/Danielodas/assets/154921587/0ccf86a7-8957-49cc-b3bf-cc6ab8eebe83)
+![github-header-image](https://github.com/Danielodas/Danielodas/assets/154921587/87c24e32-88f8-4a9e-861f-51867fcd7d67)
+
 
 <h1 align="center">Hi 👋, I'm Daniel Lleó</h1>
 <h3 align="center">A enthusiast programmer who uses mostly Python</h3>
