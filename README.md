@@ -56,6 +56,6 @@
 
 <h3 align="left">📫 Connect with me</h3>
 <p>
-  <a href="https://discord.com/users/546352665404243968" target="_blank">Discord</a>
-  <a href="https://twitter.com/DanielodasDEV" target="_blank">Twitter</a> |
+  <a href="https://discord.com/users/546352665404243968" target="_blank">Discord</a> |
+  <a href="https://twitter.com/DanielodasDEV" target="_blank">Twitter</a>
 </p>
