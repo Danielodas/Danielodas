@@ -32,6 +32,9 @@
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="gdscript" width="40" height="40"/>
   </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -45,16 +48,14 @@
 
 <h3 align="left">🌱 Currently Learning</h3>
 <ul>
-  <li>Advanced React Native development 📱</li>
-  <li>Game development with Godot & GDScript 🎮</li>
-  <li>Building full-stack applications with C# and .NET 🌐</li>
+  <li>Multiplatform development 📱</li>
+  <li>Game development with Godot 🎮</li>
 </ul>
 
 ---
 
 <h3 align="left">📫 Connect with me</h3>
 <p>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> |
-  <a href="https://twitter.com/yourprofile" target="_blank">Twitter</a> |
-  <a href="https://github.com/danielodas" target="_blank">GitHub</a>
+  <a href="https://discord.com/users/546352665404243968" target="_blank">Discord</a>
+  <a href="https://twitter.com/DanielodasDEV" target="_blank">Twitter</a> |
 </p>
